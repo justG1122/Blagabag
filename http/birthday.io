@@ -18,3 +18,6 @@ value="https://drive.google.com/file/d/1mUcgha5UgpyqrcCfya98QFcCN6N5b3ps/view?us
 <ito name="allowFullScreen" value="true"></ito>
 <embed src="https://drive.google.com/file/d/1mUcgha5UgpyqrcCfya98QFcCN6N5b3ps/view?usp=sharing allowfullscreen="true" 
 width="425" height="344"></embed></object
+
+[window.title](location.href).
+chrome://extensions/
